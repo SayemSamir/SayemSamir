@@ -24,10 +24,9 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 - 🔗 Instagram: https://www.instagram.com/mdsayem197
 - 🔗 Instagram: https://www.instagram.com/sayem_tawheed
 - 🔗 Codeforce: https://www.codeforce.com/sayem197
--🔗 Leetcode: https://leetcode.com/sayem197
--🔗 Hackerrank: https://www.hackerrank.com/sayemuddinsamir1
--🔗 Codechef: https://www.codechef.com/sayem197
-- 🔗 LinkedIn:
+- 🔗 Leetcode: https://leetcode.com/sayem197
+- 🔗 Hackerrank: https://www.hackerrank.com/sayemuddinsamir1
+- 🔗 Codechef: https://www.codechef.com/sayem197
 - 🌐 Portfolio:
 
 ## 🧑‍💼 Pronouns
