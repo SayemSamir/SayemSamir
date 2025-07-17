@@ -22,11 +22,13 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 - 📧 Email: sayemuddinsamir00@gmail.com
 - 🔗 Facebook: https://www.facebook.com/mdsayem197
 - 🔗 Instagram: https://www.instagram.com/mdsayem197
-- 🔗 Instagram:
-https://www.instagram.com/sayem_tawheed
+- 🔗 Instagram: https://www.instagram.com/sayem_tawheed
 - 🔗 LinkedIn:  
 - 🌐 Portfolio:
-
+  🔗 Codeforce: https://www.codeforce.com/sayem197
+  🔗 Leetcode: https://leetcode.com/sayem197
+  🔗 Hackerrank: https://www.hackerrank.com/sayemuddinsamir1
+  🔗 Codechef: https://www.codechef.com/sayem197
 ## 🧑‍💼 Pronouns
 He/Him
 
