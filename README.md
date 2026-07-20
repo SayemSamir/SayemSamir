@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=220&section=header&text=Sayem%20Uddin%20Samir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60"/>
+</p>
 <h1 align="center">Hi 👋, I'm Sayem Uddin Samir</h1>
 
 <p align="center">
@@ -16,8 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SayemSamir&label=Profile%20Views&color=8b5cf6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/SayemSamir?label=Followers&style=flat&color=8b5cf6" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=SayemSamir&label=Visitors&style=for-the-badge&color=8b5cf6"/>
+<img src="https://img.shields.io/github/followers/SayemSamir?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/SayemSamir?style=for-the-badge"/>
 </p>
 
 ---
@@ -35,6 +39,17 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 - ⚡ Fun fact: I'm an avid reader and a design enthusiast outside of coding
 
 ---
+---
+
+## 🚀 Current Focus
+
+- 🌱 Learning React
+- ⚛️ Next.js
+- 🐍 Python Automation
+- ☁️ Cloud Computing
+- 🐳 Docker
+- 💻 Data Structures & Algorithms
+- 🤝 Open Source Contributions
 
 ### 🛠️ Top Skills
 
@@ -60,6 +75,11 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 </p>
 
 ---
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SayemSamir&theme=tokyo-night)](https://github.com/SayemSamir)
 
 ### 📝 Latest Blog Posts
 
@@ -96,3 +116,6 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 ---
 
 <p align="center"><i>He/Him &nbsp;•&nbsp; Thanks for stopping by! ⭐ Star some of my repos if you like my work.</i></p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer"/>
+</p>
