@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=220&section=header&text=Sayem%20Uddin%20Samir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=220&section=header&text=Gazi%20Sayem%20Uddin%20Samir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60"/>
 </p>
-<h1 align="center">Hi 👋, I'm Sayem Uddin Samir</h1>
+<h1 align="center">Hi 👋, I'm Gazi Sayem Uddin Samir</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%2B%2B+%7C+Java+%7C+JavaScript+Enthusiast;Open-Source+Contributor;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
