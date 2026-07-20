@@ -81,23 +81,6 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SayemSamir&theme=tokyo-night)](https://github.com/SayemSamir)
 
-### 📝 Latest Blog Posts
-
-**Dev.to**
-<!-- BLOG-POST-LIST:devto:START -->
-<!-- BLOG-POST-LIST:devto:END -->
-
-**Medium**
-<!-- BLOG-POST-LIST:medium:START -->
-<!-- BLOG-POST-LIST:medium:END -->
-
-**Personal Blog**
-<!-- BLOG-POST-LIST:personal:START -->
-<!-- BLOG-POST-LIST:personal:END -->
-
-> These 3 lists update automatically every day through a GitHub Action (see `.github/workflows/blog-post-workflow.yml`). Nothing to do manually once it's set up.
-
----
 
 ### 📬 How to Reach Me
 
