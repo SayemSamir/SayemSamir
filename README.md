@@ -94,14 +94,14 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 
 ---
 
-<a href="https://github.com/SayemSamir">
-  <p align="center">
+<a href="https://github.com/Sushmitadasari/Sushmitadasari">
+  <h1 align="center">
   <img
     src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
     alt="GitHub Jet Heatmap"
     width="100%"
   />
-</p>
+</h1>
 </a>
 
 <p align="center"><i>He/Him &nbsp;•&nbsp; Thanks for stopping by! ⭐ Star some of my repos if you like my work.</i></p>
