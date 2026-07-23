@@ -94,7 +94,7 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 
 ---
 
-<a href="https://github.com/S">
+<a href="https://github.com/SayemSamir">
   <p align="center">
   <img
     src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
