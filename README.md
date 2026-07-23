@@ -129,23 +129,17 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeeeshaan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00E5FF&text_color=E5E7EB" height="170" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zeeeshaan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=FFB000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00E5FF&sideNums=00E5FF" height="170" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SayenSamir&custom_title=SayemSamir%20Ashraf%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFB000&area=true&area_color=00E5FF&hide_border=true" width="100%" alt="Contribution Graph" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeeshaan&custom_title=Zeeshan%20Ashraf%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFB000&area=true&area_color=00E5FF&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayemSamir&theme=github_dark" width="100%" alt="Profile Details" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeeeshaan&theme=github_dark" width="100%" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SayemSamir&theme=github_dark" height="170" alt="Repos Per Language" />
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeeshaan&theme=github_dark" height="170" alt="Repos Per Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeeshaan&theme=github_dark" height="170" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SayemSamir&theme=github_dark" height="170" alt="Stats" />
 
 </div>
 
