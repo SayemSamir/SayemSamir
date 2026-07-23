@@ -133,12 +133,12 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayemSamir&theme=github_dark" width="100%" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SayemSamir&show_icons=true&theme=dark&hide_border=true" alt="Gazi Sayem Uddin's Stats" />
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SayemSamir&theme=github_dark" height="170" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SayemSamir&theme=github_dark" height="170" alt="Stats" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayemSamir&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 </div>
 ---
