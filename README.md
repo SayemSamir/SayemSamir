@@ -129,20 +129,18 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SayenSamir&custom_title=SayemSamir%20Ashraf%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFB000&area=true&area_color=00E5FF&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayemSamir&custom_title=Gazi%20Sayem%20Uddin%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFB000&area=true&area_color=00E5FF&hide_border=true" width="100%" alt="Contribution Graph" />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayemSamir&theme=github_dark" width="100%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayemSamir&theme=github_dark" width="100%" alt="Profile Details" />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SayemSamir&theme=github_dark" height="170" alt="Repos Per Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SayemSamir&theme=github_dark" height="170" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SayemSamir&theme=github_dark" height="170" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SayemSamir&theme=github_dark" height="170" alt="Stats" />
 
 </div>
-
 ---
 
 ## 🤝 Let's Work Together
