@@ -125,24 +125,6 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayemSamir&custom_title=Gazi%20Sayem%20Uddin%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFB000&area=true&area_color=00E5FF&hide_border=true" width="100%" alt="Contribution Graph" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SayemSamir&show_icons=true&theme=dark&hide_border=true" alt="Gazi Sayem Uddin's Stats" />
-
-  <br/><br/>
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayemSamir&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-</div>
----
-
 ## 🤝 Let's Work Together
 
 <div align="center">
