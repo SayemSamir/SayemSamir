@@ -94,7 +94,74 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 
 ---
 
-<a href="https://github.com/Sushmitadasari/Sushmitadasari">
+---
+
+## 💼 What I Can Build
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>📱 Flutter Apps</h3>
+      <p>Android and iOS apps with modern UI and smooth performance.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖 AI Apps</h3>
+      <p>AI assistants, AI reports, smart recommendations, and intelligent workflows.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🌐 Web Dashboards</h3>
+      <p>Admin panels, analytics dashboards, reporting systems, and management portals.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🧾 Business Systems</h3>
+      <p>POS, inventory, invoices, dashboards, authentication, and reports.</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zeeeshaan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00E5FF&text_color=E5E7EB" height="170" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zeeeshaan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=FFB000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00E5FF&sideNums=00E5FF" height="170" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeeshaan&custom_title=Zeeshan%20Ashraf%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFB000&area=true&area_color=00E5FF&hide_border=true" width="100%" alt="Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeeeshaan&theme=github_dark" width="100%" alt="Profile Details" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeeshaan&theme=github_dark" height="170" alt="Repos Per Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeeshaan&theme=github_dark" height="170" alt="Stats" />
+
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+<div align="center">
+
+### Need a clean, scalable, AI-powered Flutter app or web dashboard?
+
+I am available for **Flutter development**, **AI feature integration**, **Firebase/Supabase integration**, **UI implementation**, **web dashboards**, **admin panels**, and **business applications**.
+
+<br/>
+
+<a href="https://github.com/SayemSamir">
   <h1 align="center">
   <img
     src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
