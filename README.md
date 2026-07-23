@@ -94,6 +94,16 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 
 ---
 
+<a href="https://github.com/S">
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
+</p>
+</a>
+
 <p align="center"><i>He/Him &nbsp;•&nbsp; Thanks for stopping by! ⭐ Star some of my repos if you like my work.</i></p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer"/>
