@@ -82,7 +82,7 @@ I'm a passionate and motivated developer with a keen interest in modern web tech
 
 | Platform | Link |
 |---|---|
-| 📧 Email | [sayemuddinsamir00@gmail.com](mailto:sayemuddinsamir00@gmail.com) |
+| 📧 Email | [gazisayemuddinsamir@gmail.com](mailto:gazisayemuddinsamir@gmail.com) |
 | 💼 LinkedIn | [in/gazi-sayem-uddin-samir](https://www.linkedin.com/in/gazi-sayem-uddin-samir) |
 | 🐦 Twitter | [@REPLACE_HANDLE](https://twitter.com/REPLACE_HANDLE) |
 | 📘 Facebook | [mdsayem197](https://www.facebook.com/mdsayem197) |
