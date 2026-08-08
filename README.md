@@ -43,7 +43,7 @@ I enjoy learning by building practical projects and exploring how technology can
 - 🌱 Currently improving my skills in ML, React, Python Automation & Cloud
 - 🤝 Open to collaboration, research and open-source opportunities
 
----
+
 
 🧭 My Learning Journey
 
@@ -78,7 +78,7 @@ Computer Science
              ├── Research Papers
              ├── AI/ML Research
              └── Data Science
----
+
 
 🚀 Currently Learning
 
@@ -296,18 +296,17 @@ I'm currently exploring:
 - Cloud Computing
 - Software Engineering
 
----
 
-📫 How to Reach Me
+### 📬 How to Reach Me  
+  
+| Platform | Link |  
+|---|---|  
+| 📧 Email | [gazisayemuddinsamir@gmail.com](mailto:gazisayemuddinsamir@gmail.com) |  
+| 💼 LinkedIn | [in/gazi-sayem-uddin-samir](https://www.linkedin.com/in/gazi-sayem-uddin-samir) |  
+| 🐦 Twitter | [@REPLACE_HANDLE](https://twitter.com/REPLACE_HANDLE) |  
+| 📘 Facebook | [mdsayem197](https://www.facebook.com/mdsayem197) |  
+| 📸 Instagram | [mdsayem197](https://www.instagram.com/mdsayem197) |  
 
-Platform| Link
-📧 Email| "sayemuddinsamir00@gmail.com" (mailto:sayemuddinsamir00@gmail.com)
-💼 LinkedIn| "Gazi Sayem Uddin Samir" (https://www.linkedin.com/in/gazi-sayem-uddin-samir)
-💻 GitHub| "SayemSamir" (https://github.com/SayemSamir)
-📸 Instagram| "@sayem_tawheed" (https://www.instagram.com/sayem_tawheed)
-📘 Facebook| "mdsayem197" (https://www.facebook.com/mdsayem197)
-
----
 
 🌟 Let's Connect
 
