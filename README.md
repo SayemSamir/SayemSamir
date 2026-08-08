@@ -22,7 +22,8 @@
   <img src="https://komarev.com/ghpvc/?username=SayemSamir&label=Profile%20Views&style=for-the-badge&color=7C3AED"/>
   <img src="https://img.shields.io/github/followers/SayemSamir?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/SayemSamir?style=for-the-badge"/>
-</p>---
+</p>
+---
 
 👨‍💻 About Me
 
