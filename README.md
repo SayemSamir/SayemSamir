@@ -189,23 +189,6 @@ Tech Stack
 
 ---
 
-📝 To-Do List Web App
-
-A simple and interactive task management web application.
-
-Tech Stack
-
-"HTML" "CSS" "JavaScript"
-
-Features
-
-- Add tasks
-- Delete tasks
-- Mark tasks as completed
-- Simple responsive interface
-
----
-
 🏆 Achievements & Activities
 
 - 🥉 3rd Runner-Up — BGCTUB Central IT FEST Programming Contest
