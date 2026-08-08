@@ -267,10 +267,9 @@ I'm currently exploring:
 |---|---|  
 | 📧 Email | [gazisayemuddinsamir@gmail.com](mailto:gazisayemuddinsamir@gmail.com) |  
 | 💼 LinkedIn | [in/gazi-sayem-uddin-samir](https://www.linkedin.com/in/gazi-sayem-uddin-samir) |  
-| 🐦 Twitter | [@REPLACE_HANDLE](https://twitter.com/REPLACE_HANDLE) |  
-| 📘 Facebook | [mdsayem197](https://www.facebook.com/mdsayem197) |  
-| 📸 Instagram | [mdsayem197](https://www.instagram.com/mdsayem197) |  
-
+| 𝕏 Twitter | [@REPLACE_HANDLE](https://twitter.com/REPLACE_HANDLE) |  
+| ⓕ Facebook | [mdsayem197](https://www.facebook.com/mdsayem197) |  
+| 🅾 Instagram | [mdsayem197](https://www.instagram.com/mdsayem197) |  
 
 🌟 Let's Connect
 
