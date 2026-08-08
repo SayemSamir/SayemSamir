@@ -43,7 +43,7 @@ I enjoy learning by building practical projects and exploring how technology can
 - 🌱 Currently improving my skills in ML, React, Python Automation & Cloud
 - 🤝 Open to collaboration, research and open-source opportunities
 
-
+---
 
 🧭 My Learning Journey
 
@@ -79,7 +79,7 @@ Computer Science
              ├── AI/ML Research
              └── Data Science
 
-
+---
 🚀 Currently Learning
 
 - 🤖 Machine Learning
