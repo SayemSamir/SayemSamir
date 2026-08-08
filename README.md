@@ -45,39 +45,20 @@ I enjoy learning by building practical projects and exploring how technology can
 
 ---
 
-🧭 My Learning Journey
+## 🧭 My Learning Journey
 
-Computer Science
-       │
-       ├── Programming
-       │     ├── C / C++
-       │     ├── Java
-       │     ├── Python
-       │     └── JavaScript
-       │
-       ├── Software Development
-       │     ├── HTML / CSS
-       │     ├── JavaScript
-       │     ├── React
-       │     └── Node.js
-       │
-       ├── Data & AI
-       │     ├── Python
-       │     ├── NumPy
-       │     ├── Pandas
-       │     ├── Scikit-learn
-       │     ├── Computer Vision
-       │     └── Machine Learning
-       │
-       ├── Problem Solving
-       │     ├── Data Structures
-       │     ├── Algorithms
-       │     └── Competitive Programming
-       │
-       └── Research
-             ├── Research Papers
-             ├── AI/ML Research
-             └── Data Science
+My journey in Computer Science is focused on continuously learning,
+building projects, solving problems, and exploring research.
+
+| Area | Currently Exploring |
+|---|---|
+| 💻 Programming | C/C++, Java, Python, JavaScript |
+| 🌐 Web Development | HTML, CSS, JavaScript, React, Node.js |
+| 🤖 AI & ML | Machine Learning, Computer Vision, Scikit-learn |
+| 📊 Data Science | NumPy, Pandas, Data Analysis |
+| 🧠 Problem Solving | Data Structures & Algorithms |
+| 🔬 Research | AI/ML Research & Research Papers |
+| ☁️ DevOps | Git, GitHub, Docker, CI/CD |
 
 ---
 🚀 Currently Learning
