@@ -18,6 +18,7 @@
   <a href="https://www.facebook.com/mdsayem197">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black)](https://sayemsamir.github.io)
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=SayemSamir&label=Profile%20Views&style=for-the-badge&color=7C3AED"/>
   <img src="https://img.shields.io/github/followers/SayemSamir?style=for-the-badge"/>
