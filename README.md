@@ -60,6 +60,20 @@ building projects, solving problems, and exploring research.
 | 🧠 Problem Solving | Data Structures & Algorithms |
 | 🔬 Research | AI/ML Research & Research Papers |
 | ☁️ DevOps | Git, GitHub, Docker, CI/CD |
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+| Platform | Profile | Level |
+|:--------:|:-------:|:-----:|
+| <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="20"/> **Codeforces** | [sayem197](https://codeforces.com/profile/sayem197) | <img src="https://img.shields.io/badge/Pupil-green?style=flat" /> |
+| <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="20"/> **LeetCode** | [sayem197](https://leetcode.com/u/sayem197/) | <img src="https://img.shields.io/badge/Active-blue?style=flat" /> |
+| <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="20"/> **HackerRank** | [sayemuddinsamir1](https://www.hackerrank.com/sayemuddinsamir1) | <img src="https://img.shields.io/badge/Problem%20Solver-orange?style=flat" /> |
+| <img src="https://img.icons8.com/ios-filled/24/000000/console.png" width="20"/> **AtCoder** | [sayem197](https://atcoder.jp/users/sayem197) | <img src="https://img.shields.io/badge/Beginner-lightgrey?style=flat" /> |
+
+</div>
 
 ---
 🚀 Currently Learning
