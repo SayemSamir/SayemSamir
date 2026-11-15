@@ -25,7 +25,7 @@
   <a href="https://www.facebook.com/mdsayem197">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://sayemsamir.github.io">
+  <a href="https://samir-porfolio.ai.studio/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black" alt="Portfolio"/>
   </a>
 </p>
