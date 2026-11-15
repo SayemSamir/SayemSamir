@@ -1,8 +1,15 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=220&section=header&text=Gazi%20Sayem%20Uddin%20Samir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20%7C%20Data%20Science&descAlignY=62"/>
-</p><h1 align="center">Hi 👋, I'm Gazi Sayem Uddin Samir</h1><p align="center">
+</p>
+
+<h1 align="center">Hi 👋, I'm Gazi Sayem Uddin Samir</h1>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+AI%2FML+Engineer;Data+Science+Enthusiast;Software+Developer;Research+%26+Open+Source+Learner;Building+Projects+and+Learning+Every+Day" alt="Typing SVG"/>
-</p><p align="center">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/gazi-sayem-uddin-samir">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -18,11 +25,17 @@
   <a href="https://www.facebook.com/mdsayem197">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-</p><p align="center">
+  <a href="https://sayemsamir.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SayemSamir&label=Profile%20Views&style=for-the-badge&color=7C3AED"/>
   <img src="https://img.shields.io/github/followers/SayemSamir?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/SayemSamir?style=for-the-badge"/>
 </p>
+
 ---
 
 👨‍💻 About Me
